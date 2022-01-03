@@ -1,0 +1,4 @@
+name: sCore
+main: rip.api.SafeCore
+version: 1.0
+author: API
